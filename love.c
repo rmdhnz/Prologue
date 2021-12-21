@@ -44,6 +44,7 @@ void rectangle(int n){
 	}
 }
 int main(){
+	printf("Masukkan range 20 - 30 agar lebih terbentuk\n");
 	int n; scanf("%d", &n);
 	pyramid(n);
 	rectangle(2*n);
