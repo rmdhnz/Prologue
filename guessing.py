@@ -1,3 +1,6 @@
+#This source code is written by FADHLY RAMADHAN
+#DEPARTEMEN TEKNIK ELEKTRO
+#INSTITUT TEKNOLOGI SEPULUH NOPEMBER
 import random
 from os import system
 print("WELCOME TO GUESSING GAME\nARE YOU READY TO BEGIN ? (Y/T)")
