@@ -1,3 +1,7 @@
+/*This source code is written by FADHLY RAMADHAN
+*DEPARTEMEN TEKNIK ELEKTRO
+*INSTITUT TEKNOLOGI SEPULUH NOPEMBER
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
