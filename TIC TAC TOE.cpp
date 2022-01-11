@@ -1,3 +1,7 @@
+/*Written by FADHLY RAMADHAN
+*DEPARTEMEN TEKNIK ELEKTRO
+*INSTITUT TEKNOLOGI SEPULUH NOPEMBER
+*/
 #include <bits/stdc++.h>
 using namespace std;// O = 79, X = 88
 #define go cout<<'\n'
